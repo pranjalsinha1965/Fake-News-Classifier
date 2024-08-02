@@ -1,5 +1,5 @@
 # Fake News Classification Using Natural Language Processing
--[Link].(https://drive.google.com/file/d/1uxkhEZUXWLu2SSKg9qcEUEG4QO_MvYUy/view?usp=drive_link/)
+- [Link](https://drive.google.com/file/d/1uxkhEZUXWLu2SSKg9qcEUEG4QO_MvYUy/view?usp=drive_link)
 
 ## Table of Contents
 - [Introduction](#introduction)
